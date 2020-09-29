@@ -15,4 +15,4 @@ The project needs help and YOU can help it. There's a tutorial on the wiki on ho
 
 ### Interactive Quizzes
 
-Yes I know Google Forms exist and I want to use that but instead of a link redirecting you to Google Forms, I want somebody to help script a button that opens a popup with an iframe to complete the quiz. I would also like a similar thing with resources for the tutorials we host.
+Yes I know Google Forms exist and I want to use that but instead of a link redirecting you to Google Forms, I want somebody to help script a button that opens a popup with an iframe to complete the quiz. I would also like a similar thing with resources for the tutorials we host. #2 (issue)
